@@ -12,7 +12,7 @@ Caravan language is a compiled language. The compiled code uses a internal virtu
 
 It provides access to inbuilt classes and allows the programmer to create new classes
 
-The inbuilt classes provide well defined interfaces to TCPIP protocols(ftp,http,smtp etc), the local file system, and built in database engine etc. which  can used to create a high performance application.
+The inbuilt classes provide well defined interfaces to TCPIP protocols(ftp,http,smtp etc), the local file system, and built in database engine etc. which  can be used to create a high performance application.
 
 Caravan has its own database engine  which integerates a search engine
 
