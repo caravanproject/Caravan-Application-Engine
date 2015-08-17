@@ -20,6 +20,6 @@ Caravan is multi-platform (WINDOWS/UNIX)
 
 Caravan can interface multiple systems using third party interfaces (CLI)
 
-Caravan has native support for xml anf JSON
+Caravan has native support for xml and JSON
 
 Warning ! Caravan is Different
